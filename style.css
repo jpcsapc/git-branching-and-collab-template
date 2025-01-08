@@ -42,6 +42,10 @@ header nav {
     margin: 10px 0;
 }
 
+.names{
+    font-weight: bold;
+}
+
 /* About Section */
 #about {
     padding: 20px;
